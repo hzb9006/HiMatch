@@ -18,6 +18,8 @@ from helper.lr_schedulers import get_linear_schedule_with_warmup
 from helper.adamw import AdamW
 
 from transformers import BertTokenizer
+import os
+os.environ["CUDA_VISIBLE_DEVICES"]='0'
 
 def set_optimizer(config, model):
     """

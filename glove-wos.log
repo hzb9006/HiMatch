@@ -316,4 +316,69 @@
 2022/05/27 00:06:15 - INFO : loss: 0.347055
 2022/05/27 00:07:37 - INFO : loss: 0.346965
 2022/05/27 00:08:51 - INFO : loss: 0.346956
-2022/05/27 00:10:13 - INFO : loss: 0.346945
+2022/05/27 00:10:13 - INFO : loss: 0.3469452022/12/01 19:05:35 - INFO : Building Vocabulary....
+2022/12/01 19:05:35 - INFO : Loading Vocabulary from Cached Dictionary...
+2022/12/01 19:05:35 - INFO : Vocabulary of token 50002
+2022/12/01 19:05:35 - INFO : Vocabulary of label 141
+2022/12/01 19:05:36 - INFO : https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-cased-vocab.txt not found in cache or force_download set to True, downloading to C:\Users\大饼干\.cache\torch\transformers\tmpcocc5h50
+2022/12/01 19:05:39 - INFO : storing https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-cased-vocab.txt in cache at C:\Users\大饼干/.cache\torch\transformers\5e8a2b4893d13790ed4150ca1906be5f7a03d6c4ddf62296c383f6db42814db2.e13dbb970cb325137104fb2e5f36fe865f27746c6b526f6352861b1980eb80b1
+2022/12/01 19:05:39 - INFO : creating metadata file for C:\Users\大饼干/.cache\torch\transformers\5e8a2b4893d13790ed4150ca1906be5f7a03d6c4ddf62296c383f6db42814db2.e13dbb970cb325137104fb2e5f36fe865f27746c6b526f6352861b1980eb80b1
+2022/12/01 19:05:39 - INFO : loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-cased-vocab.txt from cache at C:\Users\大饼干/.cache\torch\transformers\5e8a2b4893d13790ed4150ca1906be5f7a03d6c4ddf62296c383f6db42814db2.e13dbb970cb325137104fb2e5f36fe865f27746c6b526f6352861b1980eb80b1
+2022/12/01 19:05:40 - INFO : Loading 300-dimension token embedding from pretrained file: glove.6B.300d.txt
+2022/12/01 19:06:22 - INFO : Building Vocabulary....
+2022/12/01 19:06:22 - INFO : Loading Vocabulary from Cached Dictionary...
+2022/12/01 19:06:22 - INFO : Vocabulary of token 50002
+2022/12/01 19:06:22 - INFO : Vocabulary of label 141
+2022/12/01 19:06:23 - INFO : loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-cased-vocab.txt from cache at C:\Users\大饼干/.cache\torch\transformers\5e8a2b4893d13790ed4150ca1906be5f7a03d6c4ddf62296c383f6db42814db2.e13dbb970cb325137104fb2e5f36fe865f27746c6b526f6352861b1980eb80b1
+2022/12/01 19:06:24 - INFO : Loading 300-dimension token embedding from pretrained file: glove.6B.300d.txt
+2022/12/01 19:06:34 - INFO : Total vocab size of token is 50002.
+2022/12/01 19:06:34 - INFO : Pretrained vocab embedding has 45961 / 50002
+2022/12/01 19:06:45 - INFO : ========== epoch: 0 ==========
+2022/12/01 19:06:45 - INFO : begin evaluation after epoch: 20
+2022/12/01 19:35:01 - INFO : Building Vocabulary....
+2022/12/01 19:35:01 - INFO : Loading Vocabulary from Cached Dictionary...
+2022/12/01 19:35:01 - INFO : Vocabulary of token 50002
+2022/12/01 19:35:01 - INFO : Vocabulary of label 141
+2022/12/01 19:35:02 - INFO : loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-cased-vocab.txt from cache at C:\Users\大饼干/.cache\torch\transformers\5e8a2b4893d13790ed4150ca1906be5f7a03d6c4ddf62296c383f6db42814db2.e13dbb970cb325137104fb2e5f36fe865f27746c6b526f6352861b1980eb80b1
+2022/12/01 19:35:03 - INFO : Loading 300-dimension token embedding from pretrained file: glove.6B.300d.txt
+2022/12/01 19:35:13 - INFO : Total vocab size of token is 50002.
+2022/12/01 19:35:13 - INFO : Pretrained vocab embedding has 45961 / 50002
+2022/12/01 19:35:15 - INFO : ========== epoch: 0 ==========
+2022/12/01 19:35:15 - INFO : begin evaluation after epoch: 20
+2022/12/01 19:42:18 - INFO : Building Vocabulary....
+2022/12/01 19:42:18 - INFO : Loading Vocabulary from Cached Dictionary...
+2022/12/01 19:42:18 - INFO : Vocabulary of token 50002
+2022/12/01 19:42:18 - INFO : Vocabulary of label 141
+2022/12/01 19:42:19 - INFO : loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-cased-vocab.txt from cache at C:\Users\大饼干/.cache\torch\transformers\5e8a2b4893d13790ed4150ca1906be5f7a03d6c4ddf62296c383f6db42814db2.e13dbb970cb325137104fb2e5f36fe865f27746c6b526f6352861b1980eb80b1
+2022/12/01 19:42:21 - INFO : Loading 300-dimension token embedding from pretrained file: glove.6B.300d.txt
+2022/12/01 19:42:30 - INFO : Total vocab size of token is 50002.
+2022/12/01 19:42:30 - INFO : Pretrained vocab embedding has 45961 / 50002
+2022/12/01 19:42:32 - INFO : ========== epoch: 0 ==========
+2022/12/01 19:42:32 - INFO : begin evaluation after epoch: 20
+2022/12/01 19:47:20 - INFO : Building Vocabulary....
+2022/12/01 19:47:20 - INFO : Loading Vocabulary from Cached Dictionary...
+2022/12/01 19:47:20 - INFO : Vocabulary of token 50002
+2022/12/01 19:47:20 - INFO : Vocabulary of label 141
+2022/12/01 19:47:22 - INFO : loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-cased-vocab.txt from cache at C:\Users\大饼干/.cache\torch\transformers\5e8a2b4893d13790ed4150ca1906be5f7a03d6c4ddf62296c383f6db42814db2.e13dbb970cb325137104fb2e5f36fe865f27746c6b526f6352861b1980eb80b1
+2022/12/01 19:47:24 - INFO : Loading 300-dimension token embedding from pretrained file: glove.6B.300d.txt
+2022/12/01 19:47:32 - INFO : Total vocab size of token is 50002.
+2022/12/01 19:47:32 - INFO : Pretrained vocab embedding has 45961 / 50002
+2022/12/01 19:47:35 - INFO : ========== epoch: 0 ==========
+2022/12/01 19:47:35 - INFO : begin evaluation after epoch: 20
+2022/12/01 19:49:55 - INFO : Building Vocabulary....
+2022/12/01 19:49:55 - INFO : Loading Vocabulary from Cached Dictionary...
+2022/12/01 19:49:55 - INFO : Vocabulary of token 50002
+2022/12/01 19:49:55 - INFO : Vocabulary of label 141
+2022/12/01 19:49:57 - INFO : loading file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-cased-vocab.txt from cache at C:\Users\大饼干/.cache\torch\transformers\5e8a2b4893d13790ed4150ca1906be5f7a03d6c4ddf62296c383f6db42814db2.e13dbb970cb325137104fb2e5f36fe865f27746c6b526f6352861b1980eb80b1
+2022/12/01 19:50:00 - INFO : Loading 300-dimension token embedding from pretrained file: glove.6B.300d.txt
+2022/12/01 19:50:09 - INFO : Total vocab size of token is 50002.
+2022/12/01 19:50:09 - INFO : Pretrained vocab embedding has 45961 / 50002
+2022/12/01 19:50:11 - INFO : ========== epoch: 0 ==========
+2022/12/01 19:50:11 - INFO : begin evaluation after epoch: 20
+2022/12/01 19:58:47 - INFO : loss: 0.377426
+2022/12/01 20:07:04 - INFO : loss: 0.370288
+2022/12/01 20:15:21 - INFO : loss: 0.366510
+2022/12/01 20:23:18 - INFO : loss: 0.363368
+2022/12/01 20:31:22 - INFO : loss: 0.361029
+2022/12/01 20:39:37 - INFO : loss: 0.358999
+2022/12/01 20:47:39 - INFO : loss: 0.357731
